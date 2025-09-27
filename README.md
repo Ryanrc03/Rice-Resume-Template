@@ -10,7 +10,7 @@ This repository contains a LaTeX resume template tailored for Rice University. T
 ## Preview
 Below is a preview of the resume template:
 
-![Sample Resume](sample.pdf)
+![Sample Resume](sample.png)
 
 ## Rice University Logo
 The template includes the Rice University logo:
